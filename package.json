@@ -1,0 +1,13 @@
+{
+  "name": "npm-outdated-global",
+  "version": "1.0.0",
+  "description": "npm outdated --global",
+  "author": "Ivan Yan",
+  "license": "MIT",
+  "private": true,
+  "repository": "yanxyz/npm-outdated-global",
+  "dependencies": {
+    "package-json": "^4.0.1",
+    "text-table": "^0.2.0"
+  }
+}
